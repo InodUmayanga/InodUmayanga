@@ -15,4 +15,4 @@ Java · Spring Boot · Angular · TypeScript · Python · Apache Kafka · Postgr
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/inod-umayangana-004619117/) · inodumayanga@gmail.com
+[LinkedIn](https://www.linkedin.com/in/inodjayakody/) · inodumayanga@gmail.com
